@@ -1,42 +1,75 @@
-# Hi 👋, I'm Lasanga
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=180&section=header&text=Hi%20there,%20I'm%20Lasanga%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-### Full Stack Developer | Undergraduate | Software Engineer
+  <p align="center">
+    <strong>Full Stack Software Engineer | Backend & Distributed Systems Enthusiast</strong>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lasanga890&label=Profile views&color=0e75b6&style=flat" alt="lasanga890" /> </p>
+  <p align="center">
+    <a href="https://linkedin.com/in/lasanga-dissanayaka-5343a0249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://lasangadissanayaka.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:lasangad890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://facebook.com/lasanga.yasith"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lasanga890" alt="lasanga890" /></a> </p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=lasanga890&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
+</div>
 
-- 🔭 I'm currently working on **PHP & Laravel web applications (CRUD systems, REST APIs, admin dashboards)**
+---
 
-- 🌱 I'm currently learning **Advanced Laravel concepts, RESTful APIs, and backend best practices**
+### 👨‍💻 About Me
 
-- 👯 I'm looking to collaborate on **Open-source PHP/Laravel,MERN stack projects and small web application ideas**
+- 🔭 **Currently Building:** Scalable web applications, robust REST APIs, and microservices across Node.js, Go, and PHP/Laravel.
+- ⚡ **Specialization:** Full-stack architecture using **React, TypeScript, Node.js, Go**, and modern relational/NoSQL datastores.
+- 🌱 **Continuous Learning:** High-concurrency architectures, system design, and cloud deployments.
+- 🤝 **Open to:** Collaborating on impactful open-source projects, modern web apps, and developer tooling.
+- 📄 **Resume:** Check out my [Curriculum Vitae](https://lasangadissanayaka.netlify.app/static/media/LasangaCV.307beb0b5136959313f0.pdf).
 
-- 🤝 I'm looking for help with **Laravel performance optimization and clean architecture patterns**
+---
 
-- 💬 Ask me about **React,nodejs ,mongodb,PHP, Laravel, MySQL, REST APIs, Git, Linux, and backend development**
+### 🛠️ Tech Stack
 
-- 📫 How to reach me **lasangad890@gmail.com**
+<div align="center">
 
-- ⚡ Fun fact **I enjoy turning real-world problems into simple backend solutions 🚀**
+**Languages**  
+<img src="https://skillicons.dev/icons?i=ts,js,go,php,java,py,cpp,html,css" alt="Languages" />
 
-- 👨‍💻 All of my projects are available at **[https://lasangadissanayaka.netlify.app/](https://lasangadissanayaka.netlify.app/)**
+<br/>
 
-- 📄 Know about my experiences **[https://lasangadissanayaka.netlify.app/static/media/LasangaCV.307beb0b5136959313f0.pdf](https://lasangadissanayaka.netlify.app/static/media/LasangaCV.307beb0b5136959313f0.pdf)**
+**Frontend Development**  
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,materialui" alt="Frontend" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/lasanga890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lasanga890" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lasanga-dissanayaka-5343a0249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lasanga-dissanayaka-5343a0249" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/lasanga.yasith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lasanga.yasith/" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+**Backend & Databases**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,postgres,mysql,mongodb,redis" alt="Backend & Databases" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasanga890&show_icons=true&locale=en&layout=compact" alt="lasanga890" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lasanga890&show_icons=true&locale=en" alt="lasanga890" /></p>
+**DevOps, Tools & Platforms**  
+<img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,postman,androidstudio" alt="DevOps & Tools" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lasanga890&" alt="lasanga890" /></p>
+</div>
 
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/lasanga890">
+    <img src="https://github-readme-stats.vercel.app/api?username=lasanga890&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lasanga890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  </a>
+  <br/>
+  <a href="https://github.com/lasanga890">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lasanga890&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with ❤️ by Lasanga | Driven by clean code and simple solutions</sub>
+</div>
